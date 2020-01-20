@@ -1,0 +1,67 @@
+#top-bar {
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+#top-bar button {
+    background-color: transparent;
+    border: transparent;
+}
+
+#middle input {
+    margin-top: 20px;
+    width: 55%;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 40px;
+    border-radius: 50px;
+    background-color: transparent;
+    border: solid rgb(206, 206, 206) 1px;
+    text-align: left;
+}
+
+#search-icon {
+    position: absolute;
+    margin-left: -200px;
+    margin-top: -28px;
+}
+
+#mic-icon {
+    position: absolute;
+    margin-left: 180px;
+    margin-top: -28px;
+}
+
+#search-buttons button {
+    background-color: rgb(236, 236, 236);
+}
+
+#lucky-button {
+    margin-left: 10px;
+}
+
+#footer {
+    background-color: rgb(240, 239, 239);
+    bottom: 0;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: rgb(192, 192, 192) solid 1px;
+    padding-left: 30px;
+}
+
+#button-footer {
+    background-color: rgb(240, 239, 239);
+    border-top: rgb(192, 192, 192) solid 1px;
+    bottom: 0;
+    width: 100%;
+    padding-left: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#button-footer button {
+    background-color: transparent;
+    border: transparent;
+}
